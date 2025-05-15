@@ -1,16 +1,11 @@
-import Carrinho from "./components/Carrinho"
-import Header from "./components/Header"
-import Footer from "./components/Footer"
 
+import Rotas from "./rotas/Rotas"
+import './App.css'
 
-function App (){
-  return(
+function App() {
+  return (
     <>
-    <Header/>
-    <main className="h-full">
-      <Carrinho/>
-    </main>
-    <Footer/>
+      <Rotas/>
     </>
   )
 }
