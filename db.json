@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "k-swiss V8-masc",
+      "categoria": "Tenis",
+      "preco": 200,
+      "img": "Tenis"
+    },
+    {
+      "id": "2",
+      "produto": "k-swiss V8-masc",
+      "categoria": "Tenis",
+      "preco": 200,
+      "img": "Tenis"
+    },
+    {
+      "id": "3",
+      "produto": "k-swiss V8-masc",
+      "categoria": "Tenis",
+      "preco": 200,
+      "img": "Tenis"
+    },
+    {
+      "id": "4",
+      "produto": "k-swiss V8-masc",
+      "categoria": "Tenis",
+      "preco": 400,
+      "img": "Tenis"
+    }
+  ]
+}
